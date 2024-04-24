@@ -1,0 +1,8 @@
+[general]
+    location = "Oregon, US"
+    connection = "Google Cloud Platform"
+
+[http]
+    destinations = [
+        "https://www.google.co.jp"
+    ]
