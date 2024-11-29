@@ -1,8 +1,9 @@
 [general]
-    location = "Oregon, US"
+    location = "Iowa, USA"
     connection = "Google Cloud Platform"
 
 [http]
     destinations = [
-        "https://www.google.co.jp"
+        "https://www.google.co.jp",
+        "https://www.qqey.net",
     ]
